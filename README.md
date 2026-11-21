@@ -11,6 +11,8 @@ keycaps:
 
 https://womierkeyboard.com/products/ice-cube-clear-keycaps-crystal-ice-keycaps-set-for-mechanical-keyboard?variant=42857564143687
 
+https://maxkeyboard.com/clear-translucent-cherry-mx-blank-keycap-set-for-esc-w-a-s-d-or-e-s-d-f-and-arrow-keys.html
+
 screen:
 
 https://www.waveshare.com/0.95inch-rgb-oled-b.htm
