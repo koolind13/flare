@@ -5,7 +5,7 @@ keyboard that can be tailored to anybody
 
 switches:
 
-https://leobogtech.com/collections/switches/products/leobog-ink-crystal-tactile-switch-v3
+https://www.ipopularshop.com/products/ttc-frozen-silent-v2-linear-mechanical-switches?variant=41905974345878
 
 keycaps:
 
