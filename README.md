@@ -5,5 +5,5 @@ keyboard that can be tailored to anybody
 
 switches:
 
-https://www.gloriousgaming.com/products/gateron-switches?variant=43698881134767&country=US&currency=USD
+https://leobogtech.com/collections/switches/products/leobog-ink-crystal-tactile-switch-v3
 
