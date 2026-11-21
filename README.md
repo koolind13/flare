@@ -15,4 +15,4 @@ https://maxkeyboard.com/clear-translucent-cherry-mx-blank-keycap-set-for-esc-w-a
 
 screen:
 
-https://www.waveshare.com/0.95inch-rgb-oled-b.htm
+https://www.waveshare.com/0.96inch-rgb-oled-module.htm
